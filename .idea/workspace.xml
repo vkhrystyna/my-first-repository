@@ -9,15 +9,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -141,16 +132,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646305465028</updated>
-      <workItem from="1646305466263" duration="723000" />
+      <workItem from="1646305466263" duration="1355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="723000" />
+    <option name="totallyTimeSpent" value="1355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="433" y="164" width="1233" height="859" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
